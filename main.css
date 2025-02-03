@@ -1,8 +1,27 @@
-* {
+@font-face {
+  font-family: "Hanken Grotesk 1";
+  src: url(./assets/fonts/static/HankenGrotesk-Bold.ttf);
+  font-weight: 700;
+  font-style: normal;
+}
+@font-face {
+  font-family: "Hanken Grotesk 2";
+  src: url(./assets/fonts/static/HankenGrotesk-ExtraBold.ttf);
+  font-weight: 800;
+  font-style: normal;
+}
+@font-face {
+  font-family: "Hanken Grotesk 3";
+  src: url(./assets/fonts/static/HankenGrotesk-Medium.ttf);font-weight: 500;
+  font-style: normal;
+}
+ 
+ * {
   margin: 0px;
   padding: 0px;
   box-sizing: border-box;
 }
+
 
 body{
   background-color: hsl(221, 100%, 96%);
