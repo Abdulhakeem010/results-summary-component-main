@@ -46,9 +46,11 @@ main{
   border: 2px solid green;
   width: 45%;
   text-align: center;
-
 }
+
 .summary{
+  padding-inline: 60px;
   border: 2px solid purple;
   width: 55%;
 }
+
