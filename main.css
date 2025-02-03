@@ -12,36 +12,36 @@
 }
 @font-face {
   font-family: "Hanken Grotesk 3";
-  src: url(./assets/fonts/static/HankenGrotesk-Medium.ttf);font-weight: 500;
+  src: url(./assets/fonts/static/HankenGrotesk-Medium.ttf);
+  font-weight: 500;
   font-style: normal;
 }
- 
- * {
+
+* {
   margin: 0px;
   padding: 0px;
   box-sizing: border-box;
 }
 
-
-body{
+body {
   background-color: hsl(221, 100%, 96%);
-  font-family: "Hanken Grotesk 3" , serif;
+  font-family: "Hanken Grotesk 3", serif;
   font-weight: 500;
   font-style: normal;
   font-size: 18px;
 }
 
-main{
+main {
   border: 1px solid red;
   width: 50%;
   height: fit-content;
   display: flex;
- margin-left: 25%;
- margin-top: 10%;
- padding-block: 40px;
+  margin-left: 25%;
+  margin-top: 10%;
+  padding-block: 40px;
 }
 
-.result{
+.result {
   background-color: hsl(250, 91%, 63%);
   color: hsl(257, 87%, 85%);
   padding-inline: 30px;
@@ -49,18 +49,34 @@ main{
   width: 45%;
   text-align: center;
 }
-.bold{
-  font-family: "Hanken Grotesk 1";
-  font-weight: 700;
-  font-style: normal;
- font-size: 3.5rem;
+
+p {
+  border-radius: 1px solid white;
+  padding-bottom: 30px;
 }
 
+.percentage {
+  background-color: hsla(256, 72%, 46%, 1);
+  border-radius: 50%;
+  border: 1px solid black;
+  height: 150px;
+  width: 150px;
+  display: inline-block;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  
+}
 
+.bold {
+  font-family: "Hanken Grotesk 1", serif;
+  font-weight: 700;
+  font-style: normal;
+  font-size: 3.5rem;
+}
 
-.summary{
+.summary {
   padding-inline: 60px;
   border: 2px solid purple;
   width: 55%;
 }
-
