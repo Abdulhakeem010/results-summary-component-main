@@ -42,6 +42,8 @@ main{
 }
 
 .result{
+  background-color: hsl(241, 81%, 54%);
+  color: hsl(252, 100%, 67%);
   padding-inline: 30px;
   border: 2px solid green;
   width: 45%;
