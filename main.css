@@ -38,7 +38,6 @@ main {
   display: flex;
   margin-left: 25%;
   margin-top: 10%;
-  padding-block: 40px;
 }
 
 .result {
@@ -49,6 +48,7 @@ main {
   width: 45%;
   text-align: center;
   border-radius: 20px;
+  padding-top: 30px;
 }
 
 p {
@@ -78,4 +78,5 @@ p {
   padding-inline: 60px;
   border: 2px solid purple;
   width: 55%;
+  padding-top: 30px;
 }
