@@ -41,3 +41,11 @@ main{
  padding-block: 40px;
 }
 
+.result{
+  border: 1px solid green;
+  width: 45%;
+}
+.summary{
+  border: 1px solid purple;
+  width: 55%;
+}
