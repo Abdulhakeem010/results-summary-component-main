@@ -68,13 +68,19 @@ p {
 }
 
 .bold {
+  color: white;
   font-family: "Hanken Grotesk 1", serif;
   font-weight: 700;
   font-style: normal;
-  font-size: 3.5rem;
+  font-size: 4rem;
+}
+
+.great{
+  color: white;
 }
 
 .summary {
+  background-color: hsl(0, 0%, 100%);
   padding-inline: 60px;
   border: 2px solid purple;
   width: 55%;
