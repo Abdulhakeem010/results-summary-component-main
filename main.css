@@ -70,8 +70,9 @@ p {
 
 .percentage-text {
   display: inline-block;
-  margin: 25px 50px 25px 50px;
-  padding: 0;
+  border: 1px solid white;
+  margin-block: 30px;
+  width: 100%;
 }
 
 h1 {
@@ -85,6 +86,10 @@ h1 {
 .great {
   color: white;
   margin-top: 30px;
+  margin-bottom: 20px;
+}
+
+.great-text{
   margin-bottom: 20px;
 }
 
