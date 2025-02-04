@@ -68,9 +68,21 @@ p {
   text-align: center;
 }
 
+.percentage-text {
+  display: inline-block;
+  margin: 25px 50px 25px 50px;
+  padding: 0;
+}
 
+h1 {
+  color: #fff;
+  font-family: "Hanken Grotesk 1", serif;
+  font-weight: 700;
+  font-style: normal;
+  font-size: 4rem;
+}
 
-.great{
+.great {
   color: white;
   margin-top: 30px;
   margin-bottom: 20px;
