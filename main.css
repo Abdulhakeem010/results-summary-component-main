@@ -66,17 +66,9 @@ p {
   justify-content: center;
   align-items: center;
   text-align: center;
- padding: 40px;
 }
 
 
-.bold {
-  color: white;
-  font-family: "Hanken Grotesk 1", serif;
-  font-weight: 700;
-  font-style: normal;
-  font-size: 4rem;
-}
 
 .great{
   color: white;
