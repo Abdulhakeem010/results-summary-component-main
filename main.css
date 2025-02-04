@@ -42,7 +42,7 @@ main {
 
 .result {
   background-color: hsl(250, 91%, 63%);
-  color: hsl(257, 87%, 85%);
+  color: hsl(257, 90%, 88%);
   padding-inline: 30px;
   border: 2px solid green;
   width: 45%;
@@ -60,9 +60,13 @@ p {
   background-color: hsla(256, 72%, 46%, 1);
   border-radius: 50%;
   border: 1px solid black;
-  height: 150px;
-  width: 150px;
+  height: 170px;
+  width: 170px;
   display: inline-block;
+  justify-content: center;
+  align-items: center;
+  padding: 40px;
+  text-align: center;
   justify-content: center;
   align-items: center;
 }
@@ -79,6 +83,10 @@ p {
   color: white;
   margin-top: 30px;
   margin-bottom: 20px;
+}
+
+.great-text{
+  font-size: 18px;
 }
 
 .summary {
