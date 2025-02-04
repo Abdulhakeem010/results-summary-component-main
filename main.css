@@ -65,10 +65,8 @@ p {
   display: inline-block;
   justify-content: center;
   align-items: center;
-  padding: 40px;
   text-align: center;
-  justify-content: center;
-  align-items: center;
+  padding: 40px;
 }
 
 .bold {
