@@ -99,13 +99,12 @@ h1 {
 }
 
 .summary-title{
-  margin-left: 20px;
+  margin-left: 30px;
   margin-bottom: 20px;
 }
 
 ul{
-  margin-left: 20px;
-
+  margin-left: 30px;
 }
 
 li{
@@ -118,5 +117,18 @@ li{
 }
 
 .summary-item1{
-  list-style-image: url(./assets/images/reaction.png);
+  list-style-image: url(./assets/images/icon-reaction.svg);
+  list-style-position: inside;
+}
+.summary-item2{
+  list-style-position: inside;
+  list-style-image: url(./assets/images/icon-memory.svg);
+}
+.summary-item3{
+  list-style-position: inside;
+  list-style-image: url(./assets/images/icon-verbal.svg);
+}
+.summary-item4{
+  list-style-position: inside;
+  list-style-image: url(./assets/images/icon-visual.svg);
 }
