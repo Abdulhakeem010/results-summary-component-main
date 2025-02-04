@@ -42,7 +42,7 @@ main {
 
 .result {
   background-color: hsl(250, 91%, 63%);
-  color: hsl(257, 90%, 88%);
+  color: hsl(251, 88%, 81%);
   padding-inline: 30px;
   border: 2px solid green;
   width: 45%;
@@ -103,5 +103,13 @@ h1 {
 }
 
 ul{
-  
+/* border: 1px solid red; */
+
+}
+
+li{
+  /* display: flex; */
+  justify-content: space-between;
+  line-height: 50px;
+  border: 1px solid blue;
 }
