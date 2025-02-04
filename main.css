@@ -92,38 +92,39 @@ h1 {
 
 .summary {
   background-color: hsl(0, 0%, 100%);
-  padding-inline: 50px;
+  padding-left: 50px;
+  padding-right: 40px;
   border: 2px solid purple;
   width: 55%;
   padding-top: 30px;
 }
 
 .summary-title{
-  margin-left: 30px;
+  margin-left: 40px;
   margin-bottom: 20px;
 }
 
 ul {
-  margin-left: 30px;
-  padding-inline-start: 40px; /* Adjust padding for "inside" look */
-  list-style: none; /* Remove default markers */
+  margin-left: 40px;
+  padding-inline-start: 15px; 
+  list-style: none; 
 }
 
 li {
   margin-block: 20px;
-  padding-inline: 20px;
+  padding-inline: 15px;
   display: flex;
   justify-content: space-between;
   line-height: 50px;
   border: 1px solid blue;
   position: relative;
+
 }
 
-/* Custom Icons for Each List Item */
 .summary-item1::before {
   content: url(./assets/images/icon-reaction.svg);
   position: absolute;
-  left: -30px; /* Adjust spacing for the image */
+  left: -30px; 
 }
 
 .summary-item2::before {
