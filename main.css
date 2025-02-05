@@ -41,7 +41,7 @@ main {
 }
 
 .result {
-  background-color: hsl(250, 91%, 63%);
+  background: linear-gradient(hsl(252, 100%, 67%), hsl(241, 81%, 54%));
   color: hsl(251, 88%, 81%);
   padding-inline: 30px;
   border: 2px solid green;
@@ -101,6 +101,9 @@ h1 {
 .summary-title {
   margin-left: 30px;
   margin-bottom: 20px;
+  /* font-family: "hanken grotesk 1", serif;
+  font-weight: 700;
+  font-style: normal; */
   border: 1px solid red;
 }
 
@@ -115,7 +118,7 @@ li {
   padding-inline: 50px;
   display: flex;
   justify-content: space-between;
-  line-height: 50px;
+  line-height: 45px;
   border: 1px solid blue;
   position: relative;
 }
@@ -172,7 +175,7 @@ button {
   width: 90%;
   height: 50px;
   border-radius: 30px;
-  /* margin-top: 15px;
-  margin-bottom: 40px; */
+  margin-top: 15px;
+  margin-bottom: 40px;
 }
 
