@@ -132,7 +132,7 @@ li {
   height: 40px; 
 }
 
-.summary-item1::before {
+.summary-item1::before{
   content: url(./assets/images/icon-reaction.svg);
 }
 
@@ -146,4 +146,17 @@ li {
 
 .summary-item4::before {
   content: url(./assets/images/icon-visual.svg);
+}
+
+.summary-item1{
+  background-color: green;
+}
+.summary-item2{
+  background-color: green;
+}
+.summary-item3{
+  background-color: green;
+}
+.summary-item4{
+  background-color: green;
 }
