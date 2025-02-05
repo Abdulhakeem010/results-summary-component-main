@@ -42,7 +42,8 @@ main {
 
 .result {
   background: linear-gradient(hsl(252, 100%, 67%), hsl(241, 81%, 54%));
-  color: hsl(251, 88%, 81%);
+  /* color: hsl(251, 88%, 81%); */
+  color: white;
   padding-inline: 30px;
   border: 2px solid green;
   width: 45%;
@@ -102,9 +103,6 @@ h1 {
 .summary-title {
   margin-left: 30px;
   margin-bottom: 20px;
-  /* font-family: "hanken grotesk 1", serif;
-  font-weight: 700;
-  font-style: normal; */
   border: 1px solid red;
 }
 
