@@ -116,8 +116,8 @@ li {
   display: flex;
   justify-content: space-between;
   line-height: 45px;
-  border: 1px solid blue;
   position: relative;
+  
 }
 
 .summary-item1::before,
@@ -149,16 +149,16 @@ li {
 }
 
 .summary-item1 {
-  background-color: hsl(0, 100%, 67%);
+  background-color: hsl(0, 100%, 67%, 0.09);
 }
 .summary-item2 {
-  background-color: hsl(39, 100%, 56%);
+  background-color: hsl(39, 100%, 56%, 0.09) ;
 }
 .summary-item3 {
-  background-color: hsl(221, 100%, 96%);
+  background-color:hsl(166, 100%, 37%, 0.09);
 }
 .summary-item4 {
-  background-color: hsl(241, 100%, 89%);
+  background-color: hsla(241, 100%, 89%, 0.3);
 }
 
 button {
@@ -174,5 +174,6 @@ button {
   border-radius: 30px;
   margin-top: 15px;
   margin-bottom: 40px;
+  border: none;
 }
 
