@@ -55,7 +55,7 @@ h3{
 }
 
 .percentage {
-  background-color: hsla(256, 72%, 46%, 1);
+  background-color:linear-gradient(to bottom hsla(256, 72%, 46%, 1)  hsl(250, 91%, 63%));
   border-radius: 50%;
   height: 170px;
   width: 170px;
@@ -144,3 +144,5 @@ li {
   position: absolute;
   left: -30px;
 }
+
+/* background-color:linear-gradient(to bottom hsla(256, 72%, 46%, 1)  hsl(250, 91%, 63%)); */
