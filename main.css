@@ -43,7 +43,7 @@ main {
 .result {
   background: linear-gradient(hsl(252, 100%, 67%), hsl(241, 81%, 54%));
   /* color: hsl(251, 88%, 81%); */
-  color: white;
+  color:  hsla(241, 100%, 89%, 0.901);
   padding-inline: 30px;
   border: 2px solid green;
   width: 45%;
@@ -89,6 +89,7 @@ h1 {
 
 .great-text {
   margin-bottom: 45px;
+  font-size: 18px;
 }
 
 .summary {
