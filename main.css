@@ -117,7 +117,7 @@ li {
   justify-content: space-between;
   line-height: 45px;
   position: relative;
-  
+  border-radius: 10px;
 }
 
 .summary-item1::before,
