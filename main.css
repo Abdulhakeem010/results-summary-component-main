@@ -149,10 +149,10 @@ li {
 }
 
 .summary-item1{
-  background-color: green;
+  background-color:  hsl(0, 100%, 67% );
 }
 .summary-item2{
-  background-color: green;
+  background-color: hsl(39, 100%, 56%);
 }
 .summary-item3{
   background-color:hsl(221, 100%, 96%);
