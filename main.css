@@ -104,7 +104,7 @@ h1 {
 }
 
 ul {
-  margin-left: 25px;
+  margin-left: 15px;
   padding-inline-start: 15px; 
   list-style: none; 
 }
@@ -163,7 +163,13 @@ li {
 button{
   background-color:  hsl(224, 30%, 27%);
   color: white;
-  font-family: "Hanken Grotesk 1", serif;
-  font-weight: 700;
+  font-family: "Hanken Grotesk 3", serif;
+  font-weight: 500;
   font-style:normal;
+  font-size: 18px;
+  margin-left: 30px;
+  width: 90%;
+  height: 50px;
+  border-radius: 30px;
+
 }
