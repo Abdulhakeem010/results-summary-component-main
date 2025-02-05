@@ -104,14 +104,14 @@ h1 {
 }
 
 ul {
-  margin-left: 40px;
+  margin-left: 25px;
   padding-inline-start: 15px; 
   list-style: none; 
 }
 
 li {
   margin-block: 20px;
-  padding-inline: 50px; /* Adjust padding to account for the image width */
+  padding-inline: 50px; 
   display: flex;
   justify-content: space-between;
   line-height: 50px;
