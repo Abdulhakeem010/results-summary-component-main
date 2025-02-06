@@ -167,6 +167,13 @@ li {
   background-color: hsla(241, 100%, 89%, 0.3);
 }
 
+.summary-div1{
+color:  hsl(0, 100%, 67%);
+}
+.summary-div2{
+  
+}
+
 button {
   background-color: hsl(224, 30%, 27%);
   color: white;
