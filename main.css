@@ -68,7 +68,7 @@ main {
   padding-top: 30px;
   position: relative;
   z-index: 2; /* Ensures it appears on top of the summary */
-  margin-right: -40px; /* Moves the result container into the summary */
+  margin-right: -40px; 
 }
 
 h3 {
