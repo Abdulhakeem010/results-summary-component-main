@@ -31,21 +31,13 @@ body {
   font-size: 18px;
 }
 
-/* main {
-  border: 1px solid red;
-  width: 50%;
-  height: fit-content;
-  display: flex;
-  margin-left: 25%;
-  margin-top: 10%;
-} */
 main {
   width:50%;
   height: fit-content;
   display: flex;
   margin-left: 27%;
   margin-top: 10%;
-  position: relative; /* Allows child elements to use absolute positioning */
+  position: relative;
 }
 
 
