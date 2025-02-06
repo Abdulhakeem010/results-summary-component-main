@@ -70,7 +70,6 @@ h3 {
 }
 
 .percentage-text {
-  
   display: inline-block;
   margin-block: 30px;
   width: 100%;
@@ -91,6 +90,7 @@ h1 {
 }
 
 .great-text {
+  margin-top: 30px;
   margin-bottom: 45px;
   font-size: 18px;
 }
