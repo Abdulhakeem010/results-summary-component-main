@@ -44,7 +44,7 @@ main {
 .result {
   background: linear-gradient(hsl(252, 100%, 67%), hsl(241, 81%, 54%));
   color: hsla(241, 100%, 89%, 0.901);
-  padding-inline: 30px;
+  padding-inline: 40px;
   width: 50%;
   text-align: center;
   border-radius: 20px;
@@ -70,6 +70,7 @@ h3 {
 }
 
 .percentage-text {
+  
   display: inline-block;
   margin-block: 30px;
   width: 100%;
