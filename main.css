@@ -118,7 +118,6 @@ ul {
 
 li {
   margin-block: 20px;
-  /* padding-inline: 50px; */
   display: flex;
   justify-content: space-between;
   line-height: 47px;
