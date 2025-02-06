@@ -128,7 +128,7 @@ h1 {
   width: 55%;
   padding-top: 30px;
   position: relative;
-  z-index: 1; /* Ensures it appears below the result */
+  z-index: 1;
 }
 
 .summary-title {
@@ -212,6 +212,5 @@ button {
 
 button:hover {
   background: linear-gradient(hsl(252, 100%, 67%), hsl(241, 81%, 54%));
-
 }
 
