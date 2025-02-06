@@ -48,16 +48,7 @@ main {
   position: relative; /* Allows child elements to use absolute positioning */
 }
 
-/* .result {
-  background: linear-gradient(hsl(252, 100%, 67%), hsl(241, 81%, 54%));
-  color:  hsla(241, 100%, 89%, 0.901);
-  padding-inline: 30px;
-  border: 2px solid green;
-  width: 45%;
-  text-align: center;
-  border-radius: 20px;
-  padding-top: 30px;
-} */
+
 .result {
   background: linear-gradient(hsl(252, 100%, 67%), hsl(241, 81%, 54%));
   color: hsla(241, 100%, 89%, 0.901);
