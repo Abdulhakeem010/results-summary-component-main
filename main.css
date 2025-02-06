@@ -180,6 +180,10 @@ color:  hsl(0, 100%, 67%);
   color:  hsl(234, 85%, 45%);
 }
 
+.percent{
+  color: hsl(224, 30%, 27%);
+}
+
 button {
   background-color: hsl(224, 30%, 27%);
   color: white;
