@@ -170,18 +170,22 @@ li {
 .summary-div1{
 color:  hsl(0, 100%, 67%);
 margin-left: 40px;
+padding-top: 2px;
 }
 .summary-div2{
  color:hsl(39, 100%, 56%) ;
  margin-left: 40px;
+ padding-top: 2px;
 }
 .summary-div3{
  color:  hsl(166, 100%, 37%);
  margin-left: 40px;
+ padding-top: 2px;
 }
 .summary-div4{
   color:  hsl(234, 85%, 45%);
   margin-left: 40px;
+  padding-top: 2px;
 }
 
 
